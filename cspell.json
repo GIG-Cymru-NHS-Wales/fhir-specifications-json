@@ -1,0 +1,20 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "conceptmaps.json",
+        "dataelements.json",
+        "FHIR",
+        "profiles-others.json",
+        "profiles-resources.json",
+        "profiles-types.json",
+        "Schematrons",
+        "search-parameters.json",
+        "valuesets.json",
+        "version.info"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
